@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       "restaurants": "Scottish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2466344833374,
+          38.636835594579985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2619981765747,
+          38.64057320013825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "restaurants": "Stake Shake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26187479496001,
+          38.64163327026963
+        ]
+      }
+    }
+  ]
+}
